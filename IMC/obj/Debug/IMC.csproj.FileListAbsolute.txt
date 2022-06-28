@@ -1,0 +1,11 @@
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\IMC\IMC\bin\Debug\IMC.exe.config
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\IMC\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\IMC\IMC\obj\Debug\IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\IMC\IMC\obj\Debug\IMC.App.resources
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\jesner.fdoliveira\Documents\c#\uc12\WindowsForms\IMC\IMC\obj\Debug\IMC.pdb
