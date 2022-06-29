@@ -22,7 +22,7 @@ namespace IMC
             {
                 double peso = double.Parse(txtPeso.Text.Replace(".", ","));
                 double altura = double.Parse(txtAltura.Text.Replace(".", ","));
-                double calculo = peso / (altura * 2);
+                double calculo = peso / (altura * altura);
 
                 lblIMC.Text = $"IMC: {Math.Round(calculo, 2)}";   
                 lblMensagem.Text = IndiceMassaCorporal(lblMensagem, calculo);
